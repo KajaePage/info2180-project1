@@ -166,7 +166,7 @@ article{
 /* Newsletter Section */
 .newsletter{
     background-color: #48BB78;
-    height: 250px;
+    height: 255px;
     padding-bottom: 0%;
     margin: 0;
 }
@@ -207,6 +207,13 @@ button{
         margin-left: 10px;
         color: white;
 }
+
+.message {
+    text-align: center;
+    color:white;
+    font-weight: Bold;
+    padding-top: 5px;
+  }
 
 /* Footer Section */
 footer{
